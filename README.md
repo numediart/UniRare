@@ -167,7 +167,7 @@ If you use UniRare in your research, please cite our paper:
 
 ```bibtex
 @article{unirare2024,
-  title={UniRare: Unified Rarity-Enhanced Saliency Detection Framework},
+  title={UniRare: Framework Reconciling Bottom-Up and Top-Down Attention in Visual Saliency},
   author={[Authors]},
   journal={[Journal]},
   year={2024},
